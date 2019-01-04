@@ -5,7 +5,8 @@ This is a take home assignment to give us a better understanding of where your s
 ## Instructions
 
 - You will recreate the template found [here](https://scene.zeplin.io/project/5c2f9930e745a246e70c38ff) into a responsive, static web page.
-  - The width of the page is **1200px**.
+  - The design is based off of a **1200px grid**.
+    - For reference, this [site](https://1200px.com/) explains the layout of a 1200px grid.
   - The images used in the template are found under the `Assets` folder.
   - The dimensions of the elements on the page are not provided, so just use your best judgment on what you think they should be.
 
